@@ -1,0 +1,3 @@
+ArticleListRequestIntent The top headlines on {politics|Topic}
+ArticleDetailKeywordRequestIntent Tell me more about the {Clinton|Keyword} story
+ArticleDetailNumberRequestIntent Tell me more about story {StoryNumber}
