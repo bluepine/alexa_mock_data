@@ -1,4 +1,4 @@
-ArticleListRequestIntent 1: Paul Ryan unified a fractured GOP. 2: Former IRS official will not face charges for targeting political groups. 3: After key wins this week, Clinton soaks up the sun (for now). 4: Pro-Trump super PAC shutters. 5: Paul super PAC strategist acquitted of lying to FBI. Do any of these headlines interest you?
+ArticleListRequestIntent Paul Ryan unified a fractured GOP. Former IRS official will not face charges for targeting political groups. After key wins this week, Clinton soaks up the sun (for now). Pro-Trump super PAC shutters. Paul super PAC strategist acquitted of lying to FBI. Do any of these headlines interest you?
 
 ArticleDetailKeywordRequestIntent Washington (CNN)Rep. Paul Ryan's winning pitch to House conservatives amounted to this: Let's start over. For years, tensions had been boiling between the hard right of the Republican Party and the House leadership, a battle that effectively pushed Speaker John Boehner out of office and ended the bid of Majority Leader Kevin McCarthy to succeed him.
 
