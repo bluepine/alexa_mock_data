@@ -1,0 +1,45 @@
+ArticleListOnTopicIntent Paul Ryan unified a fractured GOP. Former IRS official will not face charges for targeting political groups. After key wins this week, Clinton soaks up the sun (for now . Pro-Trump super PAC shutters. Paul super PAC strategist acquitted of lying to FBI. Do any of these headlines interest you?
+
+ArticleDetailKeywordIntent Rep. Paul Ryan's winning pitch to House conservatives amounted to this: Let's start over. For years, tensions had been boiling between the hard right of the Republican Party and the House leadership, a battle that effectively pushed Speaker John Boehner out of office and ended the bid of Majority Leader Kevin McCarthy to succeed him.
+
+ArticleDetailNumberIntent Rep. Paul Ryan's winning pitch to House conservatives amounted to this: Let's start over. For years, tensions had been boiling between the hard right of the Republican Party and the House leadership, a battle that effectively pushed Speaker John Boehner out of office and ended the bid of Majority Leader Kevin McCarthy to succeed him.
+
+ArticleDetailOrderIntent Rep. Paul Ryan's winning pitch to House conservatives amounted to this: Let's start over. For years, tensions had been boiling between the hard right of the Republican Party and the House leadership, a battle that effectively pushed Speaker John Boehner out of office and ended the bid of Majority Leader Kevin McCarthy to succeed him.
+
+NextArticleIntent They've hired staff, opened offices, signed up volunteers, canvassed across the state, and committed thousands of Iowans to caucus on February 1. And for Democratic presidential hopefuls, the first test of all of that grassroots support is Saturday in Des Moines at the Iowa Democratic Party's Jefferson-Jackson Dinner.
+
+PreviousArticleIntent  Rep. Paul Ryan's winning pitch to House conservatives amounted to this: Let's start over. For years, tensions had been boiling between the hard right of the Republican Party and the House leadership, a battle that effectively pushed Speaker John Boehner out of office and ended the bid of Majority Leader Kevin McCarthy to succeed him.
+
+PreviousArticleListIntent Paul Ryan unified a fractured GOP. Former IRS official will not face charges for targeting political groups. After key wins this week, Clinton soaks up the sun for now . Pro-Trump super PAC shutters. Paul super PAC strategist acquitted of lying to FBI. Do any of these headlines interest you?
+
+NextArticleListIntent In Iowa, Clinton camp roars while Sanders faithful sway to the beat. High stakes for Sanders ahead of major Iowa dinner. Bill Clinton stumps for Hillary in first 2016 campaign trail appearance. Trump slams Carson amid dipping poll numbers. In shadow of campaign shakeup, Bush tears into Trump. Do any of these headlines interest you?
+
+ReferenceArticleDetailKeywordIntent Hillary Diane Rodham Clinton is an American politician who served as the 67th United States Secretary of State under President Barack Obama from 2009 to 2013.From Wikipedia.
+
+
+ArticleListIntent Obama: Too many tests in school. Up to 20 inches of rain in Texas. Storm pounds Mexico's resorts. Actress Maureen O'Hara dies. Victim, 13, confronts rapist. Do any of these headlines interest you?
+
+OldArticleListIntent Bill Clinton stumps for Hillary. Bishops conclude 'spicy' meeting. Assault of Aurora shooter alleged. NYT defends bin Laden story. Zuckerberg gives speech -- in Chinese. TV catches coach cussing out player.
+
+
+OlderArticleListIntent 'Bacon turtle' had a pig snout. Surprise: Dirtiest things on a plane. Makeup artist to stars dies at 37. Kerry: Israel agrees to surveillance. Big news for 'Sherlock' fans. Do any of these headlines interest you?
+
+OldArticleListOnTopicIntent Top Obama backer says he'll support Clinton. Fact checking Biden's new retelling of the Osama Bin Laden raid. Chafee drops out of Democratic race. Former Montana governor backs O'Malley. Key union endorses Hillary Clinton. Do any of these headlines interest you?
+
+
+OlderArticleListOnTopicIntent First on CNN: DOJ closes IRS investigation with no charges. Obama administration announces new testing guidelines. Obama: Death penalty 'deeply troubling'. Is the U.S. back in combat in Iraq?. Multiple sources told Secret Service chief of Chaffetz leak, IG says. Do any of these headlines interest you?
+
+NoInterestForListIntent Got it. Playing the next list of headlines. First on CNN: DOJ closes IRS investigation with no charges. Obama administration announces new testing guidelines. Obama: Death penalty 'deeply troubling'. Is the U.S. back in combat in Iraq?. Multiple sources told Secret Service chief of Chaffetz leak, IG says. Do any of these headlines interest you?
+
+NoInterestForArticleIntent Got it. Playing the next article. Rep. Paul Ryan's winning pitch to House conservatives amounted to this: Let's start over. For years, tensions had been boiling between the hard right of the Republican Party and the House leadership, a battle that effectively pushed Speaker John Boehner out of office and ended the bid of Majority Leader Kevin McCarthy to succeed him.
+
+ArticleListOnTopicOnDateIntent Top Obama backer says he'll support Clinton. Fact checking Biden's new retelling of the Osama Bin Laden raid. Chafee drops out of Democratic race. Former Montana governor backs O'Malley. Key union endorses Hillary Clinton. Do any of these headlines interest you?
+
+ReplayArticleIntent Rep. Paul Ryan's winning pitch to House conservatives amounted to this: Let's start over. For years, tensions had been boiling between the hard right of the Republican Party and the House leadership, a battle that effectively pushed Speaker John Boehner out of office and ended the bid of Majority Leader Kevin McCarthy to succeed him.
+
+ReplayArticleListIntent Paul Ryan unified a fractured GOP. Former IRS official will not face charges for targeting political groups. After key wins this week, Clinton soaks up the sun for now . Pro-Trump super PAC shutters. Paul super PAC strategist acquitted of lying to FBI. Do any of these headlines interest you?
+
+
+ArticleListOnDateIntent 'Bacon turtle' had a pig snout. Surprise: Dirtiest things on a plane. Makeup artist to stars dies at 37. Kerry: Israel agrees to surveillance. Big news for 'Sherlock' fans. Do any of these headlines interest you?
+
+
