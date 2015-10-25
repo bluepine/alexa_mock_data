@@ -1,6 +1,6 @@
 {
     "intents": [{
-        "intent": "getNes",
+        "intent": "getNews",
         "slots": []
     }, {
         "intent": "reset",
